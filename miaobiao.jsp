@@ -8,7 +8,7 @@
 	  width:300px;
 	  height:100px;
 	  background:#000;
-	  color:#FFF;
+	  color:#00FF00;
 	  font-weight:bold;
 	  border-radius:50px;
 	  text-align:center;
